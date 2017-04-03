@@ -38,6 +38,7 @@ if !exists('g:dispatch_handlers')
         \ 'windows',
         \ 'iterm',
         \ 'x11',
+        \ 'job',
         \ 'headless',
         \ ]
 endif
